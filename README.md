@@ -1,5 +1,5 @@
 # boolean-strings-library
-<h1>Let's start</h1>
+# Let's start
 
 While you're reading this text everything has already changed :). New network appeared, new search engine has been created, new boolean operator's been invented.<br>
 That is what I love about **talent sourcing**, everyday you have anything new to learn and discover.<br> 
@@ -13,8 +13,20 @@ Here are a few reasons why I decided to create this rep:
 
  Hope to see your brilliant examples as well! 
 
-<h1>Boolean operators and basic rules</h1>
-<h2>AND</h2>
+# Table of Contents
+
+- [Boolean operators and basic rules](#boolean-operators-and-basic-rules)
+- [AND](#and)
+- [OR](#or)
+- [NOT](#not)
+- [Asterisk](#asterisk)
+- [Parenthesis](#parenthesis)
+- [Quotation Marks](#quotation-marks)
+- [Wildcard](#wildcard)
+
+# Boolean operators and basic rules
+
+## AND
 
 **Combining multiple terms**
 
@@ -27,7 +39,7 @@ Google automatically interprets a space between words as AND, which means you do
 On some databases, you can meet (**&**) instead.<br>
 AND operator has precedence in search over OR and NOT.
 
-<h2>OR</h2>
+## OR
 
 **Getting results that contain either of the terms**
 
@@ -42,7 +54,7 @@ On some search engines (such as Google) you can use (|) instead, but it doesn’
 
 OR operator has precedence in search over NOT.
 
-<h2>NOT</h2>
+## NOT
 
 **Excluding certain terms**
 
@@ -54,7 +66,7 @@ Google no longer recognizes NOT, you can use (-) instead:
 
 `Sysadmin -Manager -Cat`
 
-<h2>* Asterisk</h2>
+## Asterisk
 
 **Root word search**
 
@@ -64,7 +76,7 @@ Asterisk can broaden your search by including various word endings:
 
 It doesn’t work on every search engine, for example, Linkedin doesn’t use (*).
 
-<h2>() Parenthesis</h2>
+## Parenthesis
 
 This is essential for complex strings to organize the keywords. Parenthesis will show the search engine that statements inside are separate conditions:
 
@@ -82,7 +94,7 @@ The simple string `Sysadmin AND (Linux OR Windows)` can be written in different 
 
 Parenthesis has the highest precedence.
 
-<h2>"" Quotation Marks</h2>
+## Quotation Marks
 
 **Searching for the exact word or phrase** 
 
@@ -96,7 +108,7 @@ Using Quotation Marks correctly can give you shorter strings and better results:
 
 `(“Java developer” OR “Java engineer” OR “Java programmer” OR ”Scala developer” OR “Scala engineer” OR “Scala programmer” OR “Python developer” OR “Python engineer” OR “Python programmer”)`
 
-<h2>? Wildcard</h2>
+## Wildcard
 
 **replacing any character in a term**
 
