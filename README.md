@@ -16,13 +16,13 @@ Here are a few reasons why I decided to create this rep:
 # Table of Contents
 
 - [Boolean operators and basic rules](#boolean-operators-and-basic-rules)
-- [AND](#and)
-- [OR](#or)
-- [NOT](#not)
-- [Asterisk](#asterisk)
-- [Parenthesis](#parenthesis)
-- [Quotation Marks](#quotation-marks)
-- [Wildcard](#wildcard)
+  - [AND](#and)
+  - [OR](#or)
+  - [NOT](#not)
+  - [Asterisk](#asterisk)
+  - [Parenthesis](#parenthesis)
+  - [Quotation Marks](#quotation-marks)
+  - [Wildcard](#wildcard)
 
 # Boolean operators and basic rules
 
