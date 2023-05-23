@@ -23,6 +23,7 @@ Here are a few reasons why I decided to create this rep:
   - [Parenthesis](#parenthesis)
   - [Quotation Marks](#quotation-marks)
   - [Wildcard](#wildcard)
+
 - [Boolean strings library](#boolean-strings-library) 
 
 # Boolean operators and basic rules
