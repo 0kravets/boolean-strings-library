@@ -23,6 +23,7 @@ Here are a few reasons why I decided to create this rep:
   - [Parenthesis](#parenthesis)
   - [Quotation Marks](#quotation-marks)
   - [Wildcard](#wildcard)
+- [Boolean strings library](#boolean-strings-library) 
 
 # Boolean operators and basic rules
 
@@ -113,3 +114,7 @@ Using Quotation Marks correctly can give you shorter strings and better results:
 **replacing any character in a term**
 
 `Angular?js` = Angularjs or Angular.js
+
+# Boolean strings library
+
+coming soon....
