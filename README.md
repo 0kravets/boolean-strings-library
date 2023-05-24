@@ -117,4 +117,37 @@ Using Quotation Marks correctly can give you shorter strings and better results:
 
 # Strings library
 
-coming soon....
+## Before we start
+
+We will create a list of creative boolean strings for unconventional sources, when traditional sourcing methods don't work. <br>
+But firstly make sure, that you're sick and tired of searching the basics (ATS, databases, CRMs, and LinkedIn), because the basic strategies have the higher ROI at the end. <br> 
+Now, let's start
+
+## CODERWALL
+
+What is Coderwall?<br> 
+Coderwall is a digital portfolio platform for programmers. Pulls data from Github, Bitbucket and StackOverflow to form a digital portfolio. Users can earn badges through collaborating on projects and participating in competitions.<br> 
+It is a developer community used by nearly half a million developers each month to learn and share programming tips.<br> 
+
+**Website** coderwall.com<br> 
+
+The structure of the platform is really simple
+- after coderwall.com/ goes nickname of a user coderwall.com/hannamantana
+- on the page users could fill their name, picture, current job title, company, write a short summary about themselves, interests and skills, and even leave the links to other social accounts:
+<img width="1301" alt="coderwall" src="https://github.com/0kravets/boolean-strings-library/assets/133959902/588e90d3-0a2b-4452-8253-372eef63476b">
+
+A basic boolean string for this type of website structure will look pretty simple:
+
+`site:coderwall.com "Java Developer”`
+
+I would recommend to add additional word **profile** to exclude all the forum conversation threads and see profile pages. <br>
+Plus, I wouldn't use any key words for "developer, development, developing, etc." as it really decreases the amount of results, and to be honest, this is a platform for coders, programmers, and developers, we know that in advanced. <br>
+
+`site:coderwall.com profile Node.js`
+
+**Downsides**
+
+- it is difficult to breack it by locations, so be prepared to look through people from all over the world
+- unfortunately, there no many new profiles created over the last few years, basically ROI will be very low, but you always can find a gem, someone who left any clues for you, where to find them now  
+
+## next one coming soon...
