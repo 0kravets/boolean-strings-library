@@ -27,6 +27,7 @@ Here are a few reasons why I decided to create this rep:
   - [Before we start](#before-we-start)
   - [CODERWALL](#coderwall)
   - [CRUNCHBASE](#crunchbase)
+  - [KAGGLE](#kaggle)
 
 # Boolean operators and basic rules
 
@@ -154,6 +155,7 @@ Plus, I wouldn't use any key words for "developer, development, developing, etc.
 - unfortunately, there no many new profiles created over the last few years, basically ROI will be very low, but you always can find a gem, someone who left any clues for you, where to find them now  
 
 ## CRUNCHBASE
+
 Yes, the leading provider of private-company prospecting and research solutions. 75 million users—including salespeople, entrepreneurs, investors, and market researchers use it, so there is a high chance to find who we're looking for.<br>
 
 **Website** crunchbase.com<br>
@@ -172,3 +174,22 @@ A basic boolean string will look like:
 - it is possible to start your free trial
 
 There is a helpfull way to use these 10 pages a day, as an additional source of finding new people on the Internet, using Google's (I use Google as a browser) "Tool" and just filter new pages (aka new/changed profiles) or last activities on pages, by "Past 24 hours", "Past week" etc. It looks like a good way to search for new Founders and C-level in your area.
+
+## KAGGLE
+
+It is the world's largest online data science community machine learning practitioners.<br>
+
+**Website** kaggle.com<br>
+
+The website has a clear structure, you can search trough Competitions (kaggle.com/competitions) or Code (kaggle.com/code) but people's pages have the adress of kaggle.com/yourname, so we need to break it by using profile's attribute and not to search through the discussion pages like kaggle.com/getting-started/.<br>
+
+I will use “joined * ago” phrase to jump into people's pages, as this words clearly identify personal pages. 
+
+`site:kaggle.com “joined * ago” “poland”`
+
+**Downsides**
+
+- not everyone mentiones locations so it is difficult to say if people in your location really us it. I hardly believe that in Israel only 700 people are use Kaggle
+- you will see in results links for the same persone for a few times (so not even 700, ah?), actullay the more person contribute to the conversations the higher chances that you will see their profile not only once
+
+It is a nice tool especially if you hire gems from data science scene. It can help to understand what these people like and which trends they follow. If you're allowed to hire globally, or remote people I would definately recommend to check "User Rankings" and find the best of the best. And please read more about the ranking system https://www.kaggle.com/rankings because it will help you to understand people's profiles better.
