@@ -23,7 +23,9 @@ Here are a few reasons why I decided to create this rep:
   - [Parenthesis](#parenthesis)
   - [Quotation Marks](#quotation-marks)
   - [Wildcard](#wildcard)
-- [Strings library](#strings-library) 
+- [Strings library](#strings-library)
+  - [Before we start](#before-we-start)
+  - [CODERWALL](#coderwall) 
 
 # Boolean operators and basic rules
 
