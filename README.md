@@ -152,4 +152,22 @@ Plus, I wouldn't use any key words for "developer, development, developing, etc.
 - it is difficult to breack it by locations, so be prepared to look through people from all over the world
 - unfortunately, there no many new profiles created over the last few years, basically ROI will be very low, but you always can find a gem, someone who left any clues for you, where to find them now  
 
-## next one coming soon...
+## CRUNCHBASE
+Yes, the leading provider of private-company prospecting and research solutions. 75 million users—including salespeople, entrepreneurs, investors, and market researchers use it, so there is a high chance to find who we're looking for.<br>
+
+**Website** crunchbase.com<br>
+
+The structure of the platform is pretty simple, we're more interested in subscribed people:
+- this part will be: crunchbase.com/person/someone'sname
+- on the page you can see CB rank (see most active people), Location (if it's been filled), Region, linked for other networks, short summary and even job history and education
+
+A basic boolean string will look like:
+
+`site:crunchbase.com/person CTO Poland`
+
+**Downsides**
+
+- unfortunately, you need to buy a subscription to open more than 10 pages a day, and at first glance there is no way to awoid it, so if you're lucky to have a corporate subscription, use it
+- it is possible to start your free trial
+
+There is a helpfull way to use these 10 pages a day, as an additional source of finding new people on the Internet, using Google's (I use Google as a browser) "Tool" and just filter new pages (aka new/changed profiles) or last activities on pages, by "Past 24 hours", "Past week" etc. It looks like a good way to search for new Founders and C-level in your area.
