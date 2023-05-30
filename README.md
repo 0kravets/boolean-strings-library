@@ -25,7 +25,8 @@ Here are a few reasons why I decided to create this rep:
   - [Wildcard](#wildcard)
 - [Strings library](#strings-library)
   - [Before we start](#before-we-start)
-  - [CODERWALL](#coderwall) 
+  - [CODERWALL](#coderwall)
+  - [CRUNCHBASE](#crunchbase)
 
 # Boolean operators and basic rules
 
