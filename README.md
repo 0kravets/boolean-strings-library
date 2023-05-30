@@ -177,7 +177,7 @@ There is a helpfull way to use these 10 pages a day, as an additional source of 
 
 ## KAGGLE
 
-It is the world's largest online data science community machine learning practitioners.<br>
+It is the world's largest online data science & machine learning practitioners community.<br>
 
 **Website** kaggle.com<br>
 
