@@ -210,6 +210,25 @@ Let's start with the most obvious way to search.<br>
 This part of "member since" in this case is really important, that way it is possible to get rid of the pages of groups and communities.
 The part of (JavaScript OR Angular OR React OR Node) is actually the possible groups people can join. In this case, we just assume that if we're looking for a Fronted developer, that means that they will join the groups with these keywords.<br>
 
-<img width="972" alt="Screen Shot 2023-06-21 at 16 14 19" src="https://github.com/0kravets/boolean-strings-library/assets/133959902/fb1cd713-1d7c-4d07-bdba-6c3d5f6576e0">
+<img width="972" alt="Screen Shot 2023-06-21 at 16 14 19" src="https://github.com/0kravets/boolean-strings-library/assets/133959902/80b8eb84-a758-4976-95be-62c16bae5653">
+
+On the page, we can see names, sometimes locations, even photos, and the other possible groups that this person follows.<br>
+The main concern is that the same person can be presented a few times on the search page, it just can give you the wrong impression of the number of people's profiles.<br>
+
+So, let's try another direction. Let's say, we're looking for a Go developer in Israel. And let's assume that our character is joining Golang groups in Israel to go to some meetups.<br>
+I would just make a simple search of groups using the keywords Go or Golang, go to "All members", and filter by "Date joined" (it will give the first who just joined and have interests in Golang right now.<br>
+And here starts the magic. Scroll the members till the end or till the date of joining you consider relevant. Use any scraper you like, for Meetup.com I prefer "Instant Data Scraper" as an extension to Chrome: https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah <br>
+It doesn't save you a lot of unnecessary .xls files. We just need to make Ctrl+C of the column with the names. And paste into the Excel file with the special formula that can help you to search for a person by Name + Keyword + Network.<br>
+
+<img width="1341" alt="Screen Shot 2023-06-21 at 16 52 09" src="https://github.com/0kravets/boolean-strings-library/assets/133959902/115fea94-4541-46a1-9fcd-c2edf603a621">
+
+<img width="808" alt="Screen Shot 2023-06-21 at 16 54 21" src="https://github.com/0kravets/boolean-strings-library/assets/133959902/4ac38b05-ff1e-4a19-8c10-41d8fadf6888">
+
+And, of course, I'd love to share access to this Lookup tool, if you still don't have it. Just write me your e-mail.
+
+To be continued...
+
+
+
 
 
