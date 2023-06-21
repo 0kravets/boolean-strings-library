@@ -1,7 +1,7 @@
 # boolean-strings-library
 # Let's start
 
-While you're reading this text everything has already changed :). A new network appeared, a new search engine has been created, and new boolean operator's been invented.<br>
+While you're reading this text everything has already changed :). A new network appeared a new search engine has been created, and new boolean operator's been invented.<br>
 That is what I love about **talent sourcing**, every day you have anything new to learn and discover.<br> 
 Here are a few reasons why I decided to create this rep:
 <ol>
@@ -28,6 +28,7 @@ Here are a few reasons why I decided to create this rep:
   - [CODERWALL](#coderwall)
   - [CRUNCHBASE](#crunchbase)
   - [KAGGLE](#kaggle)
+  - [MEETUP](#meetup)
 
 # Boolean operators and basic rules
 
@@ -145,7 +146,7 @@ A basic boolean string for this type of website structure will look pretty simpl
 `site:coderwall.com "Java Developer”`
 
 I would recommend adding the additional word **profile** to exclude all the forum conversation threads and see profile pages. <br>
-Plus, I wouldn't use any keywords for "developer, development, developing, etc." as it really decreases the amount of results, and to be honest, this is a platform for coders, programmers, and developers, we know that in advance. <br>
+Plus, I wouldn't use any keywords for "developer, development, developing, etc." as it really decreases the number of results, and to be honest, this is a platform for coders, programmers, and developers, we know that in advance. <br>
 
 `site:coderwall.com profile Node.js`
 
@@ -193,3 +194,22 @@ I will use “joined * ago” phrase to jump into people's pages, as these words
 - you will see in results links for the same person a few times (so not even 700, ah?), actually the more person contribute to the conversations the higher chances that you will see their profile not only once
 
 It is a nice tool especially if you hire gems from the data science scene. It can help to understand what these people like and which trends they follow. If you're allowed to hire globally, or remote people I would definitely recommend checking "User Rankings" and finding the best of the best. And please read more about the ranking system https://www.kaggle.com/rankings because it will help you to understand people's profiles better.
+
+## Meetup
+
+Meetup is a social media platform for hosting and organizing in-person and virtual activities, gatherings, and events for people and communities of similar interests, hobbies, and professions.<br>
+What's special about this platform, is that you can find not only people but communities to join also for your own fun!<br>
+
+**Website** meetup.com<br>
+
+The structure of the website is a bit... a bit that I don't like :)<br>
+Let's start with the most obvious way to search.<br>
+
+`site:meetup.com "member since" (Israel OR "Tel Aviv") (JavaScript OR Angular OR React OR Node)`
+
+This part of "member since" in this case is really important, that way it is possible to get rid of the pages of groups and communities.
+The part of (JavaScript OR Angular OR React OR Node) is actually the possible groups people can join. In this case, we just assume that if we're looking for a Fronted developer, that means that they will join the groups with these keywords.<br>
+
+<img width="972" alt="Screen Shot 2023-06-21 at 16 14 19" src="https://github.com/0kravets/boolean-strings-library/assets/133959902/fb1cd713-1d7c-4d07-bdba-6c3d5f6576e0">
+
+
